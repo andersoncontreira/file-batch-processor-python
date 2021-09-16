@@ -1,0 +1,1 @@
+APP_NAME = 'file-batch-processor-python'
